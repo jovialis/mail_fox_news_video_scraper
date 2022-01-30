@@ -1,0 +1,12 @@
+{
+  "name": "fox-channel-video-scraper",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "axios": "^0.25.0",
+    "mongoose": "^6.1.8",
+    "nanoid": "^3.2.0"
+  }
+}
